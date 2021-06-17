@@ -10,7 +10,7 @@ to this README.md file.
 
 1.  EdwinCalculator.py
 
-    This program shows how to start a program in a pythonic way and to whow 
+    This program shows how to start a program in a pythonic way and to show 
     how to define and invoke a function.
     
 2.  Calculator2.py
