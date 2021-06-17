@@ -15,6 +15,6 @@ to this README.md file.
     
 2.  Calculator2.py
 
-    This program shows how to create a list of mumbers and have a function 
+    This program shows how to create a list of numbers and have a function 
     report the sum of that list.
 
